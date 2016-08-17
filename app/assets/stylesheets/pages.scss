@@ -66,3 +66,15 @@ body {
 		padding: 10px;
 	}
 }
+
+.about {
+	background: asset-data-url('quitoNoche.jpg') no-repeat;
+	background-position: center bottom;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	height:350px;
+	color:white;
+	padding:40px 30px;
+}
