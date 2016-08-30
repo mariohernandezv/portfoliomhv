@@ -77,3 +77,20 @@ body {
 	color:white;
 	padding:40px 30px;
 }
+
+.contact {
+	background-color: $color-primario;
+	text-align: center;
+	height: 350px;
+	.row {
+		
+		a {
+			
+			text-decoration: none;
+			color: white;
+			&:hover {
+				color:$color-contraste;
+			}
+		}
+	}
+}
