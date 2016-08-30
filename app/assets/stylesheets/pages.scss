@@ -82,10 +82,10 @@ body {
 	background-color: $color-primario;
 	text-align: center;
 	height: 350px;
+	display: flex;
+  	align-items: center;
 	.row {
-		
 		a {
-			
 			text-decoration: none;
 			color: white;
 			&:hover {
